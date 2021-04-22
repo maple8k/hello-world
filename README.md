@@ -1,2 +1,4 @@
-# hello-world
-just another repository
+# hello-worldi
+Hi Humans!
+
+Welcome to Chongqing,CHina
